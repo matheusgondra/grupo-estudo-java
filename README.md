@@ -14,7 +14,7 @@ Irei dar uma sugestão de como estudar os assuntos desse grupo. Lembre-se que é
 
 ### Artigos
 
-Você deve seguir o roadmap e estudar o tema na ordem junto com seus subtemas. Ao finalizar todos os subtemas de um tópico deve escrever um post em uma plataforma de sua preferencia e disponibilizar o link nesse repositório através de um Pull Request para compartilhar o que aprendeu.
+Você deve seguir o roadmap e estudar o tema na ordem junto com seus subtemas. Ao finalizar todos os subtemas de um tópico deve escrever um post em uma plataforma de sua preferencia e disponibilizar adicionar o link na [página de posts](./posts.md) nesse repositório através de um Pull Request para compartilhar o que aprendeu.
 
 ### Desafios
 
