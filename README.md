@@ -18,4 +18,4 @@ Você deve seguir o roadmap e estudar o tema na ordem junto com seus subtemas. A
 
 ### Desafios
 
-Serão disponibilizados desafios para testar aquilo que aprendeu. Como o grupo não segue uma linguagem de programação especifica você poderá usar a linguagem que achar melhor.
+Serão disponibilizados desafios para testar aquilo que aprendeu. Você pode encontrar os desafios criados na [página de desafios](./desafios.md).
