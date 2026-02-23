@@ -2,11 +2,15 @@
 
 Abaixo está lista dos artigos escritos pelos participantes do grupo de estudos.
  
- ## Java Básico
+## Java Básico
 
- ### Tipos primitivos
+### Tipos primitivos
 
- - [Tipos primitivos no Java](https://dev.to/matheusgondra/tipos-primitivos-no-java-ndh) - [Matheus Gondra](https://github.com/matheusgondra)
+- [Tipos primitivos no Java](https://dev.to/matheusgondra/tipos-primitivos-no-java-ndh) - [Matheus Gondra](https://github.com/matheusgondra)
+
+### Classe String
+
+- [Java: a classe String](https://dev.to/matheusgondra/java-a-classe-string-2e0i) - [Matheus Gondra](https://github.com/matheusgondra)
 
 ## Exceções
 
