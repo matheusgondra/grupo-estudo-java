@@ -4,7 +4,7 @@ Esse repositório tem como objetivo centralizar o conteúdo estudado sobre Java.
 
 ## Roadmap
 
-Foi criado um roadmap no [roadmap.sh](roadmap.sh) para visualizar melhor os tópicos a serem estudados. Esse roadmap será alterado a medida que novos tópicos entre no grupo de estudos
+Foi criado um roadmap no [roadmap.sh](https://roadmap.sh) para visualizar melhor os tópicos a serem estudados. Esse roadmap será alterado a medida que novos tópicos entre no grupo de estudos
 
 - [Roadmap](https://roadmap.sh/r/java-639x4)
 
